@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+}
+
+header h3, header nav {
+    display: inline;
+}
+
+.boldText {
+    font-weight: bold;
+}
+
+#myHeadLine {
+    font-style: italic;
+    text-align: center;
+}
